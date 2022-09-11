@@ -22,7 +22,20 @@ GYM-Dashboard is a project to help people understand their progress in the gym.
 </p>
 
 ## ⚙️ How it works
+
+### Diagram
+
 ![gym-dashboard-diagram](./images/gym-dashboard-diagram.png "GYM-Dashboard diagram")
+
+1. User use **Cellphone** to access app of **Google Sheets**.
+2. Data is saved in a table on app of **Google Sheets**. The table have four columns: 
+   * Date;
+   * Exercise;
+   * Serie;
+   * Repetitions;
+   * Weight.
+3. Table in **Google Sheets** is connected to **Power BI**.
+4. **Power BI** is used to perform the **Analysis**.
 
 ## 🙋‍♂️ Author   
   
