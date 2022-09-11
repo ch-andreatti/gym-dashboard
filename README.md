@@ -25,7 +25,7 @@ GYM-Dashboard is a project to help people understand their progress in the gym.
 
 ### Diagram
 
-![gym-dashboard-diagram](./images/gym-dashboard-diagram.png "GYM-Dashboard diagram")
+![gym-dashboard-diagram](./images/diagram/gym-dashboard-diagram.png "GYM-Dashboard diagram")
 
 1. User use **Cellphone** to access app of **Google Sheets**.
 2. Data is saved in a table on app of **Google Sheets**. The table have four columns: 
