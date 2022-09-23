@@ -17,15 +17,15 @@ GYM-Dashboard is a project to help people understand their progress in the gym.
 
 ## 🧰 Tools
 <p align="left">    
-    <a href="https://www.google.com/sheets/about/" target="_blank"> <img src="./images/icons/google-sheets.png"/> </a>
-    <a href="https://powerbi.microsoft.com/pt-br/" target="_blank"> <img src="./images/icons/powerbi.png"/> </a>
+    <a href="https://www.google.com/sheets/about/" target="_blank"> <img src="./files/images/icons/google-sheets.png"/> </a>
+    <a href="https://powerbi.microsoft.com/pt-br/" target="_blank"> <img src="./files/images/icons/powerbi.png"/> </a>
 </p>
 
 ## ⚙️ How it works
 
 ### Diagram
 
-![gym-dashboard-diagram](./images/diagram/gym-dashboard-diagram.png "GYM-Dashboard diagram")
+![gym-dashboard-diagram](./files/images/diagram/gym-dashboard-diagram.png "GYM-Dashboard diagram")
 
 1. User use **Cellphone** to access app of **Google Sheets**.
 2. Data is saved in a table on app of **Google Sheets**. The table have four columns: 
