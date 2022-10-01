@@ -15,7 +15,7 @@ Project Status
 
 GYM-Dashboard is a project to help people understand their progress in the gym. Click at link below to test the dashboard.
 
-[GYM-Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjdjMDYzNzUtMmUxZi00ZTExLWFhNGYtNTE1YzczOGQ0ZDhiIiwidCI6IjA5ODFkMTdkLTFmYzItNDFjNy04MDE1LWQwZjljNTM2MGM1NiJ9)
+[GYM-Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTU4ZGQ5YzEtZjA4YS00YjRlLTk1MTQtZjJkMDU3YWY0NDQ5IiwidCI6IjA5ODFkMTdkLTFmYzItNDFjNy04MDE1LWQwZjljNTM2MGM1NiJ9)
 
 ## 🧰 Tools
 <p align="left">    
