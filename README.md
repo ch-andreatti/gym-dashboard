@@ -53,7 +53,7 @@ The purpose of **Analysis by Exercise** is to perform a specific analysis by exe
 
 ## 🙋‍♂️ Author   
   
-Made by Caio Henrique 👋 [Get in Touch!](https://www.linkedin.com/in/caioandreatti/)
+Made by Caio Henrique 👋 [Get in Touch!](https://www.linkedin.com/in/ch-andreatti/)
 
 ## 📝 License
   
